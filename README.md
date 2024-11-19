@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=Hi%20there!%20I'm%20김현우&animation=&fontColor=ffffff&fontSize=70" />
     </div>
     <h1> 부산소프트웨어마이스터고등학교 학생입니다!</h1>
-    <h4>나름 열심히 사는중</h4>
+    <h4>백엔드 지망생</h4>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
