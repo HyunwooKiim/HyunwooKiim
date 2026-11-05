@@ -1,1 +1,1 @@
-contact: khwoo.bughsmith@gmail.com
+khwoo.bughsmith@gmail.com
